@@ -47,7 +47,7 @@ body{
 }
 .home-left{
     width: 50%;
-    text-align: left;
+    text-align: right;
     padding-left: 100px;
 }
 .home-right{
@@ -56,8 +56,10 @@ body{
 }
 .home-left h1{
     font-size: 40px;
+    color: #BB2CD9;
 }
 .home-left p{
     font-size: 18px;
     font-weight: 300;
+    color: #2475B0;
 }
